@@ -8,7 +8,7 @@ SubDocTrans 是一个面向文档级机器翻译（Document-level Machine Transl
 
 
 
-🚀 # 主要特点
+🚀 主要特点
 
 📄 支持文档级机器翻译建模
 
@@ -23,7 +23,7 @@ SubDocTrans 是一个面向文档级机器翻译（Document-level Machine Transl
 
 
 
-🏗️ # 模型结构
+🏗️ 模型结构
 
 SubDocTrans 主要由三个核心模块组成：
 
