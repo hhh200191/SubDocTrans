@@ -11,13 +11,9 @@ SubDocTrans 是一个面向文档级机器翻译（Document-level Machine Transl
 🚀 主要特点
 
 📄 支持文档级机器翻译建模
-
 🔍 多粒度知识增强（句子 / 子文档 / 文档级）
-
 🧠 上下文感知翻译机制
-
 🔌 可插拔模块设计，易于扩展
-
 ⚡ 兼容主流 Transformer 翻译框架
 
 🏗️ 模型结构
